@@ -181,10 +181,8 @@ Websites referred:
 
 ## Author
 
-**Anshuman Srivastava**
-
-* Twitter: [@Anshuman_121](https://twitter.com/Anshuman_121)
-* Github: [@AnshumanSrivastava108](https://github.com/AnshumanSrivastava108)
-* LinkedIn: [@AnshumanSrivastava108](https://www.linkedin.com/in/anshumansrivastava108)
+**Manish Kumar Samal**
+* Github: [@manishkumarsamal-258](https://github.com/Manishkumarsamal-258/Real-Time-Drowsiness-detection-system)
+* LinkedIn: [@manishsamal](https://www.linkedin.com/in/manishsamal/)
 
 
