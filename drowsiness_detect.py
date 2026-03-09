@@ -77,7 +77,7 @@ alarm_status2 = False
 saying = False
 COUNTER = 0
 
-print("-> Loading the predictor and detector Manish")
+print("-> Loading the predictor and detector Manish Kumar Samal")
 #detector = dlib.get_frontal_face_detector()
 detector = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")   
 predictor = dlib.shape_predictor('shape_predictor_68_face_landmarks.dat')
